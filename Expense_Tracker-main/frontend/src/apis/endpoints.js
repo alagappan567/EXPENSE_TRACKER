@@ -1,5 +1,5 @@
 const mode = process.env.REACT_APP_APP_MODE;
-let domain = "http://127.0.0.1:8000/expense-tracker/";
+let domain = "https://expense-tracker-navy-phi.vercel.app/expense-tracker/";
 export default {
   signIn: `${domain}api/auth/login`,
   resetToken: `${domain}api/auth/reset-token`,
