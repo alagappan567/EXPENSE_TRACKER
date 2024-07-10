@@ -64,7 +64,9 @@ Follow these steps to set up and run the Expense Tracker locally on your machine
 
 ## Authors
 
-[Yash Patel](https://github.com/ypatel11)
-[Deep Patel](https://github.com/Deeppatel8758)
+[Alagappan](https://github.com/alagappan567)
+[vigneshwari](https://github.com/jknlk)
+[kathirvel](https://github.com/KathirvelKannan)
+[kanimozhi](https://github.com/Kanimozhiparthiban1012)
 
 # Expense_Tracker
